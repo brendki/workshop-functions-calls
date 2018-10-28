@@ -1,10 +1,9 @@
 {
-    "title": "Expressions and Control Structures",
+    "title": "Functions Calls",
     "version": "1.0.0",
     "icon": "/test/icon.svg",
     "chat": "https://gitter.im/ethereum/play",
     "lessons": [{
-      "title": "Functions Calls",
     "lesson": "https://www.youtube.com/watch?v=MQkCJZ37uu4",
     "tool": "https://solidity.readthedocs.io/en/v0.4.24/control-structures.html#function-calls",
   
